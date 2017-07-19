@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257325932629",
+    "firebase_url": "https://android-react719.firebaseio.com",
+    "project_id": "android-react719",
+    "storage_bucket": "android-react719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257325932629:android:3169d40a24298bf3",
+        "android_client_info": {
+          "package_name": "com.react719"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257325932629-7h5qifn5k68mf9lgia17lbqe9vdfbioj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.react719",
+            "certificate_hash": "a469a10d606e88d8b69241eb324bbaf25ae378c6"
+          }
+        },
+        {
+          "client_id": "257325932629-ehps8qdo8tasvrom2iup1oksph43oo22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN_d0PqxLMXoxLjmQWUWbbu5BA1fQPIMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257325932629-ehps8qdo8tasvrom2iup1oksph43oo22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
