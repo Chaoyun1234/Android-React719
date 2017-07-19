@@ -1,0 +1,3 @@
+rootProject.name = 'React719'
+
+include ':app'
